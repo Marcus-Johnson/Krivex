@@ -1,0 +1,780 @@
+[
+    {
+      "name": "TDC - Mission 1",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 500},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 500},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 500},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 1500},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 2",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "left", "value": 300},
+        {"command": "forward", "value": 600},
+        {"command": "right", "value": 600},
+        {"command": "back", "value": 600},
+        {"command": "left", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 3",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 800},
+        {"command": "right", "value": 400},
+        {"command": "forward", "value": 400},
+        {"command": "left", "value": 400},
+        {"command": "back", "value": 800},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 4",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 400},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 800},
+        {"command": "back", "value": 600},
+        {"command": "right", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 5",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 300},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 600},
+        {"command": "back", "value": 600},
+        {"command": "right", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 6",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "left", "value": 400},
+        {"command": "forward", "value": 800},
+        {"command": "right", "value": 800},
+        {"command": "back", "value": 800},
+        {"command": "left", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 7",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "forward", "value": 500},
+        {"command": "right", "value": 500},
+        {"command": "forward", "value": 500},
+        {"command": "left", "value": 500},
+        {"command": "back", "value": 1000},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 8",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 300},
+        {"command": "forward", "value": 600},
+        {"command": "right", "value": 600},
+        {"command": "back", "value": 900},
+        {"command": "left", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 9",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "right", "value": 500},
+        {"command": "forward", "value": 700},
+        {"command": "left", "value": 1000},
+        {"command": "back", "value": 700},
+        {"command": "right", "value": 500},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 10",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 1000},
+        {"command": "right", "value": 400},
+        {"command": "forward", "value": 800},
+        {"command": "left", "value": 800},
+        {"command": "back", "value": 1000},
+        {"command": "right", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 11",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 800},
+        {"command": "left", "value": 400},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 800},
+        {"command": "back", "value": 800},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 12",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "right", "value": 600},
+        {"command": "forward", "value": 1000},
+        {"command": "left", "value": 1200},
+        {"command": "back", "value": 1000},
+        {"command": "right", "value": 600},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 13",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 50},
+        {"command": "forward", "value": 500},
+        {"command": "right", "value": 500},
+        {"command": "forward", "value": 1000},
+        {"command": "left", "value": 1000},
+        {"command": "back", "value": 1000},
+        {"command": "right", "value": 500},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 14",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 300},
+        {"command": "forward", "value": 600},
+        {"command": "right", "value": 600},
+        {"command": "back", "value": 900},
+        {"command": "left", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 15",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "right", "value": 400},
+        {"command": "forward", "value": 800},
+        {"command": "left", "value": 1200},
+        {"command": "back", "value": 800},
+        {"command": "right", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 16",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 500},
+        {"command": "left", "value": 500},
+        {"command": "forward", "value": 1000},
+        {"command": "right", "value": 1000},
+        {"command": "back", "value": 1000},
+        {"command": "left", "value": 500},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 17",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 300},
+        {"command": "forward", "value": 600},
+        {"command": "right", "value": 600},
+        {"command": "back", "value": 900},
+        {"command": "left", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 18",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 400},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 800},
+        {"command": "back", "value": 600},
+        {"command": "right", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 19",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 300},
+        {"command": "forward", "value": 600},
+        {"command": "left", "value": 600},
+        {"command": "back", "value": 600},
+        {"command": "right", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 20",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 400},
+        {"command": "back", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 400},
+        {"command": "back", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 21",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 300},
+        {"command": "back", "value": 150},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 22",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 50},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 23",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 24",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 25",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 26",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 200},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 100},
+        {"command": "left", "value": 100},
+        {"command": "back", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 27",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 300},
+        {"command": "back", "value": 150},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 28",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 50},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 29",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 30",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 31",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 32",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 200},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 100},
+        {"command": "left", "value": 100},
+        {"command": "back", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 33",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 300},
+        {"command": "back", "value": 150},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 34",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 50},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 35",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 36",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 37",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 38",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 200},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 100},
+        {"command": "left", "value": 100},
+        {"command": "back", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 39",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 300},
+        {"command": "back", "value": 150},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 40",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 50},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 41",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 42",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 43",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 44",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 200},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 100},
+        {"command": "left", "value": 100},
+        {"command": "back", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 45",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 120},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 300},
+        {"command": "back", "value": 150},
+        {"command": "right", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 46",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 50},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "left", "value": 150},
+        {"command": "forward", "value": 200},
+        {"command": "right", "value": 150},
+        {"command": "back", "value": 200},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 47",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 48",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 60},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "left", "value": 100},
+        {"command": "forward", "value": 300},
+        {"command": "right", "value": 100},
+        {"command": "back", "value": 300},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 49",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 80},
+        {"command": "forward", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "left", "value": 200},
+        {"command": "forward", "value": 400},
+        {"command": "right", "value": 200},
+        {"command": "back", "value": 400},
+        {"command": "land"}
+      ]
+    },
+    {
+      "name": "TDC - Mission 50",
+      "pattern": [
+        {"command": "takeoff"},
+        {"command": "up", "value": 100},
+        {"command": "forward", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "forward", "value": 200},
+        {"command": "left", "value": 200},
+        {"command": "back", "value": 200},
+        {"command": "right", "value": 200},
+        {"command": "forward", "value": 100},
+        {"command": "left", "value": 100},
+        {"command": "back", "value": 100},
+        {"command": "right", "value": 100},
+        {"command": "land"}
+      ]
+    }
+  ]  
